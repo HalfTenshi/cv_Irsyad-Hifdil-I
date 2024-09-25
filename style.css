@@ -68,13 +68,13 @@ section{
     text-align: justify;
 }
 
-#notification {
-    display: none; /* Mulai dalam keadaan tersembunyi */
-    background-color: #005915; /* Warna latar belakang hijau muda */
-    color: #ffffff; /* Warna teks hijau tua */
-    padding: 15px; /* Padding untuk jarak dalam */
-    border-radius: 5px; /* Membuat sudut membulat */
-    margin: 20px auto; /* Jarak dari elemen lain */
-    width: 40%; /* Atur lebar notifikasi */
-    text-align: center; /* Teks rata tengah */
-}
+/* #notification {
+    display: none; 
+    background-color: #005915; 
+    color: #ffffff; 
+    padding: 15px; 
+    border-radius: 5px; 
+    margin: 20px auto; 
+    width: 40%; 
+    text-align: center; 
+} */
